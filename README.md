@@ -5,13 +5,13 @@ You can fill it up with mock data (see below) so you can try out all the feature
 
 # How to run the project
 
-# Front End
+# Frontend
 
 - Navigate to the client folder
 - npm install
 - You can start the front end with npm start
 
-# Back End
+# Backend
 
 - Navigate to the server folder
 - npm install
